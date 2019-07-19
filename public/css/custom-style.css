@@ -1,0 +1,93 @@
+.select2-container {
+    z-index: 99999;
+    width: 100%!important;
+}
+div#page-wrapper {
+    background: url("../gym.jpg")!important;
+}
+.nav-tabs .active {
+    background: #fff !important;
+}
+.login{
+  background: url(bg.jpeg);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+}
+.table-bordered > thead > tr > th,tfoot tr, thead tr {
+	background: lightblue !important;
+}
+body{
+  background:#01579b;
+}
+#page-wrapper{
+  padding:0px 0px !important;
+}
+
+.nav > li.active,.navbar-default .nav > li > a:focus {
+  background: #fff;
+  color:#01579b;
+
+}
+.nav > li > a{
+  color:#fff;
+}
+.nav > li.active > a{
+  color:#01579b !important;
+}
+
+.nav>li>a:hover{
+  background: #fff !important;
+  color:#01579b !important;
+
+}
+.nav > li.active {
+    border-left: 4px solid #3f51b5;
+}
+body.mini-navbar .nav-header,.btn-primary {
+  background-color: #3f51b5;
+  border-color: #3f51b5;
+  color: #FFFFFF;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #3f51b5 !important;
+    color: white;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.btn-primary.active:focus{
+background-color: #01579b;
+
+}
+
+tfoot td {
+	font-weight:bold;
+}
+ul.nav-second-level {
+  background: #01579b;
+}
+.nav-header {
+    padding: 33px 25px;
+    background-color: #3f51b5;
+    background-image: none;
+    border-bottom: 1px solid;
+}
+
+.ibox-title h5, .navbar-fixed-top, .navbar-static-top {
+    color: #01579b;
+    font-weight: 700;
+}
+
+.nav-tabs > li > a {
+    color: #fff !important;
+  }
+
+  .modal-body h3.m-t-none.m-b.navbar-static-top {
+    background: none;
+}
+
